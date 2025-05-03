@@ -1,0 +1,29 @@
+﻿{
+  "Name": "De Griezelbus",
+  "Description": "",
+  "Port": 9876,
+  "QueryPort": 9877,
+  "MaxConnectedUsers": 40,
+  "MaxConnectedAdmins": 4,
+  "ServerFps": 30,
+  "SaveName": "griezelbus",
+  "Password": "P4ulv4nL00n!",
+  "Secure": true,
+  "ListOnSteam": false,
+  "ListOnEOS": false,
+  "AutoSaveCount": 20,
+  "AutoSaveInterval": 120,
+  "CompressSaveFiles": true,
+  "GameSettingsPreset": "",
+  "GameDifficultyPreset": "",
+  "AdminOnlyDebugEvents": true,
+  "DisableDebugEvents": false,
+  "API": {
+    "Enabled": false
+  },
+  "Rcon": {
+    "Enabled": false,
+    "Port": 25575,
+    "Password": ""
+  }
+}
