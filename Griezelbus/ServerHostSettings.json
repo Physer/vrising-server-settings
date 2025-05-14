@@ -12,7 +12,7 @@
   "ListOnSteam": false,
   "ListOnEOS": false,
   "AutoSaveCount": 20,
-  "AutoSaveInterval": 120,
+  "AutoSaveInterval": 600,
   "CompressSaveFiles": true,
   "GameSettingsPreset": "",
   "GameDifficultyPreset": "",
