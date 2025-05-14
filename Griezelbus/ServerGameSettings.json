@@ -11,7 +11,7 @@
   "SoulShard_DurabilityLossRate": 1.0,
   "CanLootEnemyContainers": false,
   "BloodBoundEquipment": true,
-  "TeleportBoundItems": true,
+  "TeleportBoundItems": false,
   "BatBoundItems": false,
   "BatBoundShards": true,
   "AllowGlobalChat": true,
@@ -120,27 +120,27 @@
       "Level1": {
         "FloorLimit": 50,
         "ServantLimit": 1,
-        "HeightLimit": 3
+        "HeightLimit": 50
       },
       "Level2": {
         "FloorLimit": 140,
         "ServantLimit": 3,
-        "HeightLimit": 3
+        "HeightLimit": 50
       },
       "Level3": {
         "FloorLimit": 240,
         "ServantLimit": 5,
-        "HeightLimit": 3
+        "HeightLimit": 50
       },
       "Level4": {
         "FloorLimit": 360,
         "ServantLimit": 7,
-        "HeightLimit": 3
+        "HeightLimit": 50
       },
       "Level5": {
         "FloorLimit": 550,
         "ServantLimit": 8,
-        "HeightLimit": 3
+        "HeightLimit": 50
       }
     },
     "CastleHeartLimitType": "User",
