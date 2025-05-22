@@ -133,12 +133,12 @@
         "HeightLimit": 50
       },
       "Level4": {
-        "FloorLimit": 360,
+        "FloorLimit": 500,
         "ServantLimit": 7,
         "HeightLimit": 50
       },
       "Level5": {
-        "FloorLimit": 550,
+        "FloorLimit": 900,
         "ServantLimit": 8,
         "HeightLimit": 50
       }
